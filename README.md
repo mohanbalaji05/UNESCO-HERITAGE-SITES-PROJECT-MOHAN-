@@ -49,3 +49,5 @@ SAGI RAMAKRISHNA RAJU ENGINEERING COLLEGE, Bhimavaram
 #DATASET LINK https://www.kaggle.com/datasets/thedevastator/unesco-world-heritage-sites-dataset
 
 #TABLEAU PROJECT LINK https://public.tableau.com/views/UNESCOProject_01/Project_01?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+#STORY LINK https://public.tableau.com/shared/PM8YBKJ2P?:display_count=n&:origin=viz_share_link
