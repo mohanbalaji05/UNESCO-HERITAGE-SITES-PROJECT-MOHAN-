@@ -51,3 +51,5 @@ SAGI RAMAKRISHNA RAJU ENGINEERING COLLEGE, Bhimavaram
 #TABLEAU PROJECT LINK https://public.tableau.com/views/UNESCOProject_01/Project_01?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 #STORY LINK https://public.tableau.com/shared/PM8YBKJ2P?:display_count=n&:origin=viz_share_link
+
+#DEMO VIDEO LINK https://drive.google.com/file/d/1yRGCJWRwxRMRpYrk91Pbmm2873DwbrhG/view?usp=drivesdk
